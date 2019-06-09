@@ -1,4 +1,4 @@
-[0]
+["0-0.5.2"]
 AxisArrays = "0"
 Compat = "0-2"
 FFTW = "0"
